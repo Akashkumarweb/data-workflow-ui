@@ -15,7 +15,7 @@ SmartPrep UI is a modern **React + Vite** application that empowers users to upl
 
 ## 🚀 Demo
 
-[Live Preview Here](#) <!-- Replace with your deployment link (e.g., Vercel, Netlify) -->
+
 
 ## 🛠️ Tech Stack
 
