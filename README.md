@@ -2,7 +2,7 @@
 
 SmartPrep UI is a modern **React + Vite** application that empowers users to upload, transform, and visualize CSV data—no code required. Designed with scalability, clarity, and user experience in mind, this project demonstrates expertise in advanced frontend architecture, reusable component patterns, and the latest UI tooling.
 
-![SmartPrep UI Screenshot](./smartprep.png)
+![SmartPrep UI Screenshot](https://data-workflow-ui.vercel.app/smartprep.png)
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ SmartPrep UI is a modern **React + Vite** application that empowers users to upl
 
 ## 🚀 Demo
 
-
+data-workflow-ui.vercel.app
 
 ## 🛠️ Tech Stack
 
