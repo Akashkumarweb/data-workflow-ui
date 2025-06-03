@@ -16,7 +16,7 @@ function App() {
           </p>
           <div className="flex gap-2 mb-2">
             <a
-              href="../public/sample-data.csv"
+              href="/sample-data.csv"
               download
               className="inline-flex items-center text-xs text-violet-600 border border-violet-100 bg-violet-50 rounded-full px-4 py-1 hover:bg-violet-100 transition"
             >
